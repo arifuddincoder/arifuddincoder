@@ -5,7 +5,7 @@
 # 😎 Hey! Nice to see you.
 
 Welcome to my page!  
-I'm **Md Arif Uddin**, a passionate **Full-Stack MERN Developer** from 🇧🇩 **South Asia**.  
+I'm **Md Arif Uddin**, a passionate **Full-Stack Developer** from 🇧🇩 **South Asia**.  
 I love building scalable web applications and experimenting with modern JavaScript tools and frameworks.
 
 🌐 Visit My Portfolio Website: [https://codebyarif.web.app](https://codebyarif.web.app)
