@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-[![Portfolio Banner](https://raw.githubusercontent.com/arifuddincoder/arifuddincoder/main/assets/githubprofile-arif-banner.png)](https://codebyarif.web.app)
+[![Portfolio Banner](https://raw.githubusercontent.com/arifuddincoder/arifuddincoder/main/assets/arif-uddin-coder-banner.png)](https://codebyarif.web.app)
 
 # 😎 Hey! Nice to see you.
 
