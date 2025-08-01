@@ -45,7 +45,7 @@ I love building scalable web applications and experimenting with modern JavaScri
 | 🧠 Project Name | 🐞 Issues | ⚙️ Technologies |
 |----------------|-----------|----------------|
 | [EduCore Client](https://github.com/arifuddincoder/educore_clientside) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/educore_clientside) | React • Tailwind • Firebase |
-| [FindNest Client](https://github.com/arifuddincoder/findnest_client) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/findnest_client) | React • Tailwind • MongoDB |
+| [FindNest Client](https://github.com/arifuddincoder/findnest-client) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/findnest-client) | React • Tailwind • MongoDB |
 | [React Subbloom](https://github.com/arifuddincoder/react-subbloom) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/react-subbloom) | React • Tailwind • Firebase |
 
 ---
