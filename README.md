@@ -71,8 +71,8 @@ I love building scalable web applications and experimenting with modern JavaScri
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="https://app.daily.dev/arifuddincoder" target="_blank">
-    <img alt="Daily.dev" src="https://img.shields.io/badge/Daily.dev-282c34?style=for-the-badge&logo=gitbook&logoColor=white" />
+  <a href="https://wa.me/8801625446383" target="_blank">
+    <img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
   <a href="https://twitter.com/arifuddincoder" target="_blank">
