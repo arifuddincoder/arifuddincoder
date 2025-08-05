@@ -51,7 +51,7 @@ I love building scalable web applications and experimenting with modern JavaScri
 ---
 
 ## 📊 GitHub Stats
-![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifuddincoder&show_icons=true&count_private=true&include_all_commits=true&theme=default)
+![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifuddincoder&show_icons=true&theme=default)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifuddincoder&layout=compact&theme=default)
 
 ---
