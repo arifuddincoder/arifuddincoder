@@ -8,6 +8,9 @@ Welcome to my page!
 I'm **Md Arif Uddin**, a passionate **Full-Stack Developer** from 🇧🇩 **South Asia**.  
 I love building scalable web applications and experimenting with modern JavaScript tools and frameworks.
 
+📧 Email: [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arifuddincoder@gmail.com)  
+📱 WhatsApp: [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8801625446383)  
+
 🌐 Visit My Portfolio Website: [https://codebyarif.web.app](https://codebyarif.web.app)
 
 ### 📌 Current Activities
