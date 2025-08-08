@@ -65,10 +65,12 @@ I love exploring modern JavaScript tools, frameworks, and performance optimizati
 ---
 
 ## 📊 GitHub Stats  
-![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifuddincoder&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifuddincoder&layout=compact&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifuddincoder&show_icons=true&theme=default" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifuddincoder&layout=compact&theme=default" alt="Top Languages" />
+</p>
  
- 
+
 ---
 
 <h3>🔗 Where to Find Me</h3>
