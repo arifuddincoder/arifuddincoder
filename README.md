@@ -5,7 +5,7 @@
 # 😎 Hey! Nice to see you.
 
 Welcome to my page!  
-I'm **Md Arif Uddin**, a passionate **Full-Stack Developer** from 🇧🇩 **South Asia**.  
+I'm **Md Arif Uddin**, a passionate **Full-Stack Developer** from 🇧🇩 **Tangail, Bangladesh**.  
 I love building scalable web applications and experimenting with modern JavaScript tools and frameworks.
 I also love experimenting with modern JavaScript tools and frameworks.
 
