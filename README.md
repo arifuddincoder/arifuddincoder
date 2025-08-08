@@ -8,8 +8,8 @@ Welcome to my page!
 I'm **Md Arif Uddin**, a passionate **Full-Stack Developer** from 🇧🇩 **South Asia**.  
 I love building scalable web applications and experimenting with modern JavaScript tools and frameworks.
 
-[<img src="https://img.icons8.com/ios-filled/20/FFFFFF/email.png" width="18" style="background-color:#D14836; padding:4px; border-radius:4px;">](mailto:arifuddincoder@gmail.com) [arifuddincoder@gmail.com](mailto:arifuddincoder@gmail.com)  
-[<img src="https://img.icons8.com/ios-filled/20/FFFFFF/whatsapp--v1.png" width="18" style="background-color:#25D366; padding:4px; border-radius:4px;">](https://wa.me/8801625446383) [+8801625446383](https://wa.me/8801625446383) 
+[<img src="https://skillicons.dev/icons?i=gmail" width="22" />](mailto:arifuddincoder@gmail.com) [arifuddincoder@gmail.com](mailto:arifuddincoder@gmail.com)  
+[<img src="https://skillicons.dev/icons?i=whatsapp" width="22" />](https://wa.me/8801625446383) [+8801625446383](https://wa.me/8801625446383)  
 
 🌐 Visit My Portfolio Website: [https://codebyarif.web.app](https://codebyarif.web.app)
 
