@@ -65,9 +65,11 @@ I love exploring modern JavaScript tools, frameworks, and performance optimizati
 ---
 
 ## 📊 GitHub Stats  
-![Arif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arifuddincoder&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arifuddincoder&layout=compact&theme=default)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arifuddincoder&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arifuddincoder&show_icons=true&theme=default" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifuddincoder&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=arifuddincoder&theme=default" alt="GitHub Streak" />
+</p>
  
 
 ---
