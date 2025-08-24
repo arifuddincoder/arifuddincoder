@@ -43,6 +43,7 @@ I love exploring modern JavaScript tools, frameworks, and performance optimizati
   <img alt="PHP"       src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=ffffff" style="margin:4px 6px;" />
   <img alt="MySQL"     src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=ffffff" style="margin:4px 6px;" />
   <img alt="Firebase"  src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=ffffff" style="margin:4px 6px;" />
+  <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=ffffff" style="margin:4px 6px;" />
 </div>
 
 ### <strong>Tools</strong>
