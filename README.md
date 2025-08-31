@@ -17,9 +17,9 @@ I love exploring modern JavaScript tools, frameworks, and performance optimizati
 ---
 
 ### 📌 Current Activities
-- 🔭 I’m currently working on **EduCore** (Course Management System)  
 - 🌱 I’m learning **Next.js** and exploring server-side rendering  
 - 👨‍💻 I’m experimenting with **MongoDB Aggregation**, advanced **Firebase Auth**, and **React Performance Optimization**  
+- 📘 Right now, I am learning **TypeScript** and have built a small Next.js project: [NextTea](https://nexttea.vercel.app/)
 
 ---
 
