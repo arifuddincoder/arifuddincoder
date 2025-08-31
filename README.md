@@ -57,12 +57,14 @@ I love exploring modern JavaScript tools, frameworks, and performance optimizati
 
 ---
 
+
 ## 📂 Recent Projects
 | 🧠 Project Name | 🐞 Issues | ⚙️ Technologies |
 |----------------|-----------|----------------|
+| [Talkora Forum](https://github.com/arifuddincoder/talkora-forum-client) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/talkora-forum-client) | React • Tailwind • Firebase • MongoDB |
 | [EduCore Client](https://github.com/arifuddincoder/educore_clientside) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/educore_clientside) | React • Tailwind • Firebase |
 | [FindNest Client](https://github.com/arifuddincoder/findnest-client) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/findnest-client) | React • Tailwind • MongoDB |
-| [React Subbloom](https://github.com/arifuddincoder/react-subbloom) | ![Issues](https://img.shields.io/github/issues/arifuddincoder/react-subbloom) | React • Tailwind • Firebase |
+
 
 ---
 
